@@ -1,0 +1,5 @@
+﻿namespace Acme.MyService;
+public class MyService
+{
+
+}
